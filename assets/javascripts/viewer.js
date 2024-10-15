@@ -1,10 +1,10 @@
 (function () {
   // TODO edit
   const dataFolderPath = '/chheh';
-  const dataNamePrefix = '/TJTST1_';
+  const dataNamePrefix = '/KJITOG_Page_';
   const dataNameNumberCount = 3;
   const dataNameSuffix = '.jpg';
-  const lastPageNumber = 12;
+  const lastPageNumber = 278;
 
   let imgSources = [];
   const imgSourcesMin = 1;
